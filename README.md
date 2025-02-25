@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Claudio Rocha e essas são algumas características minhas
 
-👨‍🎓 Atualmente estou aplicando para vagas de estagiário!
-🖥️ Estou estudando Python com foco no back end!
+👨‍🎓 Atualmente estou aplicando para vagas de analista de junior!
+🖥️ Estou estudando Python e SQL com foco na analise de dados!
 😄 Pronomes: Ele/dele
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-R-S-J&show_icons=true&theme=radical)
